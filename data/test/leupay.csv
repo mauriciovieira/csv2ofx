@@ -1,0 +1,4 @@
+Transaction date,Ordered via,Type,Description,Details,Debit,Credit,Currency
+26.07.2018 12:09,Card,POS Payment,"*4188, Woolshed Helsinki      HELSINKI      FIN, -10.40 EUR","CAPOS011820758YJ, 50807560441, EUR Account, -10.40 EUR, 1.0000, -10.40 EUR, 0.00 EUR",10.4,,EUR
+24.07.2018 18:57,Card,POS Payment,"*4188, K supermarket Postita  Helsinki      FIN, -4.80 EUR","CAPOS01182053SSX, 50807560441, EUR Account, -4.80 EUR, 1.0000, -4.80 EUR, 0.00 EUR",4.8,,EUR
+03.07.2018 15:12,Manual operation,Account funding,"SOME DONATION FI0000000000000000, 500.00 EUR","SOME DONATION, NDEAFIHH, FI0000000000000000, MTBTR0000000IMND, 00000000001, EUR Account, 1.0000, Donation, 500.00 EUR, 500.00 EUR, 0.00 EUR",,500,EUR

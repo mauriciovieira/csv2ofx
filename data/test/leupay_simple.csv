@@ -1,0 +1,4 @@
+Transaction date,Ordered via,Type,Description,Amount,Currency
+09.08.2018 18:47,Card,POS Payment,"*4188, Restaurant  Helsinki      FIN, -0.50 EUR",-0.50,EUR
+09.08.2018 12:26,Card,POS Payment,"*4188, Groceries   Helsinki      FIN, -4.45 EUR",-4.45,EUR
+03.07.2018 15:12,Manual operation,Account funding,"SOME DONATION FI0000000000000000, 500.00 EUR",500,EUR
